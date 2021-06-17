@@ -1,3 +1,4 @@
+![Screenshot (430)](https://user-images.githubusercontent.com/61897385/122377171-76c12680-cf82-11eb-9c6e-0fdaf9499e11.png)
 # Canvasly-The Paint App
 This is a paint application same as windows 10 Paint.
 This is in GUI mode written in Python Programming Language.
